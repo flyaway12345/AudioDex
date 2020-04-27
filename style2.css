@@ -1,0 +1,117 @@
+header{
+    background-color: rgb(255, 58, 58);
+}
+body{
+    background-image: url(images/background.webp);
+    min-height: 100vh;
+    position: relative;
+    border-radius: 25px;
+    margin: 0;
+    padding-bottom: 100px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  
+}
+
+.textBox{
+    background-color: whitesmoke;
+    border-radius: 25px;
+    width: auto;
+    border: 5px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin-bottom: 5em;
+}   
+img{
+    border-radius: 50%;
+    width: auto;
+    height: 225px;
+}
+h1{
+    color: rgb(255, 72, 72);
+    text-align: center;
+    font-family: "bangers";
+}
+h3{
+    color: rgb(99, 99, 99);
+    text-align: center;
+    font-family: "bangers";
+}
+button, input{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "bangers";
+}
+.row{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.jumbotron{
+    background-image: url("images/banner.jpg");
+    background-size: 120%;
+    background-position: center;
+    color: white;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.jumbotron h1{
+    color: rgb(172, 5, 5);
+}
+.card{
+    align-items: center;
+    align-content: center;
+    max-height: 425px;
+    min-height: 425px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 2em;
+    
+}
+.btn{
+    position: relative;
+    float: center;
+}
+nav{
+    text-align: center;
+    font-family: "bangers"; 
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    width: auto;
+    margin-top: 2em;    
+}
+.stream{
+    float: -200em;
+}
+#watchbox-Pokemon-Generations-Description{
+    margin-left: 10em;
+    margin-right: 10em;
+}
+#mc_embed_signup{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    font-family: "bangers";
+}
+a:link{
+    color:rgb(243, 105, 105);
+}
+
+a:active{
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    color: tomato;
+}
+a:visited{
+    color: rgb(0, 0, 0);
+}

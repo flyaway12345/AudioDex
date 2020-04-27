@@ -1,0 +1,123 @@
+#header-div{
+    background-color: rgb(255, 58, 58);
+    margin-bottom: 2em;
+    
+}
+body{
+    background-image: url(https://vignette.wikia.nocookie.net/pokemon/images/1/17/Kanto_HGSS.png/revision/latest?cb=20110213010237);
+    min-height: 100vh;
+  position: relative;
+  margin: 0;
+  padding-bottom: 100px;
+}
+header{
+    text-align: center;
+    
+}
+a:link{
+    color:white;
+}
+
+a:active{
+    color: white;
+}
+
+a:hover{
+    color: tomato;
+}
+a:visited{
+    color: white;
+}
+.headers{
+    font-family: "bangers";
+    color:white;
+
+
+}
+.textBox{
+    background-color: whitesmoke;
+    width: auto;
+    border-radius: 25px;
+    border: 5px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin-bottom: 5em;
+}
+.center{
+    text-align: center;
+    align-content: center;
+
+}
+.round{
+    border-radius: 50%;
+}
+.row-1{
+    margin-bottom: 2em;
+}
+.fit{
+    width: auto;
+    height: auto;
+}
+.pikaImage{
+    width: 80%;
+    margin-bottom: 1em;
+}
+
+button{
+    width: 50%;
+    height: auto;
+}
+#mailImage{
+    width: 70%;
+    margin-bottom: 1em;
+    
+}
+.header-elements{
+    padding: 1em;
+}
+#footer-div{
+    background-color: rgb(83, 83, 83);
+    text-align: center;
+    
+    
+}
+#index footer{
+    margin-top: 5em;
+      
+}
+footer {
+    margin-bottom: -100em;
+}
+.social{
+    padding-top: -5em;
+    object-fit: scale-down;
+    
+
+}
+#stream{
+    margin-top: 10em;
+}
+.xxx{
+    font-family: "bangers";
+    color:rgb(185, 185, 185); 
+}
+.yyy{
+    margin-top: 5em;
+    margin-bottom: 2em;
+    height: 5em;  
+    font-family: "bangers";
+}
+.card-body{
+    font-family: "bangers";
+    color:rgb(112, 111, 111); 
+    height: 28em;
+}
+.container{
+    background-color: whitesmoke;
+    width: auto;
+    border-radius: 25px;
+    border: 5px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin-bottom: 12em;
+}
