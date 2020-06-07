@@ -121,3 +121,6 @@ footer {
     box-shadow: 5px 10px;
     margin-bottom: 12em;
 }
+iframe{
+    align-items: center;
+}
